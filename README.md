@@ -60,8 +60,6 @@ Steps
 	c) Show Data
 
 
-Welcome back Guys into new video of my channel.
-In this video you will get the information about my Car Rental System project which is build in the ASP.NET Core MVC with SQL Server database. You will learn CRUD operation in this video.
 
 Queries :
 asp.net core mvc project with database
