@@ -31,32 +31,32 @@ Steps
 
 8) Add class and interface.
 
-9) Create Car Page.
-	a) Add Car Model.
-	b) Cars List UI.
-	c) Add Car Page.
-	d) Save Car Data.
+9) Create Car Page.<br/>
+	a) Add Car Model.<br/>
+	b) Cars List UI.<br/>
+	c) Add Car Page.<br/>
+	d) Save Car Data.<br/>
 	e) Show Data.
 
-10) Create Driver Page.
-	a) Add Driver Model.
-	b) Driver List UI.
-	c) Add Driver Page.
-	d) Save Driver Data.
+10) Create Driver Page.<br/>
+	a) Add Driver Model.<br/>
+	b) Driver List UI.<br/>
+	c) Add Driver Page.<br/>
+	d) Save Driver Data.<br/>
 	e) Show Data.
 
 11) Create Rent Page.<br/>
-	a) Add Rent Model.
-	b) Rent List UI.
-	c) Add Rent Page.
-	d) Rent Driver Data.
+	a) Add Rent Model.<br/>
+	b) Rent List UI.<br/>
+	c) Add Rent Page.<br/>
+	d) Rent Driver Data.<br/>
 	e) Show Data.
 
 12) Show Cars on Home Page
 
-13) Driver History
-	a) Add Driver History Model
-	b) History UI
+13) Driver History<br/>
+	a) Add Driver History Model<br/>
+	b) History UI<br/>
 	c) Show Data
 
 
