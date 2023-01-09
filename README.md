@@ -11,12 +11,12 @@ Project Requirements in description.
 Steps
 
 1) Create Project in Visual Studio 2022.
-2) Create Database in SQLSERVER 2022
-	a) Create database file.
-	b) Create Tables:
-		i) Cars
-	       ii) Drivers
-	      iii) Rents
+2) Create Database in SQLSERVER 2022<br/>
+	a) Create database file.<br/>
+	b) Create Tables:<br/>
+		i) Cars<br/>
+	       ii) Drivers<br/>
+	      iii) Rents<br/>
 3) Create CONNECTION
 "dbConnection" : "Data Source=DESKTOP-U5UHNIE\SQLEXPRESS;Initial Catalog=Car_System;User ID=YourUserName;Password=1234"
 "dbConnection" : "providerName=System.Data.SqlClient;Data Source=C:\Car_System\db;Initial Catalog=Car_System;Integrated Security=True"
