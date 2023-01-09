@@ -11,7 +11,7 @@ Project Requirements in description.
 Steps
 
 1) Create Project in Visual Studio 2022.
-2) Create Database in SQLSERVER 2018
+2) Create Database in SQLSERVER 2022
 	a) Create database file.
 	b) Create Tables:
 		i) Cars
@@ -69,5 +69,5 @@ asp.net core mvc with sql server
 
 Project Requirements :
 1) Visual Studio 2022
-2) MS Access  2013
+2) SQLSERVER 2022
 3) C#, HTML, CSS, jQuery, Bootstrap 5 , SQL, 
