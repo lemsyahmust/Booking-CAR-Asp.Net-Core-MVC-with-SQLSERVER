@@ -45,7 +45,7 @@ Steps
 	d) Save Driver Data.
 	e) Show Data.
 
-11) Create Rent Page.
+11) Create Rent Page.<br/>
 	a) Add Rent Model.
 	b) Rent List UI.
 	c) Add Rent Page.
